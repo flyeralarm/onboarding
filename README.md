@@ -2,8 +2,9 @@
 
 ## curated @ [flyeralarm](https://flyeralarm.com)
 
-This document is intended as guidance for new developers joining our teams at flyeralarm
-Because we think it might help others as well we wanted to open-source it, feel free to contribute
+This document is intended as guidance for new developers joining our teams at flyeralarm.
+
+Because we think it might help others as well we wanted to open-source it, feel free to contribute or comment.
 
 ## Basics
 
@@ -41,6 +42,10 @@ Because we think it might help others as well we wanted to open-source it, feel 
 
 [PSR - PHP Standard Recommendation](https://en.wikipedia.org/wiki/PHP_Standard_Recommendation)
 
+[PHP Library Discovery](https://www.youtube.com/watch?v=3kD9t0GVGGY&feature=youtu.be)
+
+[PHP Logging Basics](https://www.loggly.com/ultimate-guide/php-logging-basics/)
+
 ## Tools
 
 [Git](https://git-scm.com/)
@@ -48,6 +53,10 @@ Because we think it might help others as well we wanted to open-source it, feel 
 [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials/)
 
 [Composer - Dependency Manager For PHP](https://getcomposer.org/git)
+
+[Packagist - The PHP Package Repository](https://packagist.org/)
+
+[A Beginner's Guide to npm](https://www.sitepoint.com/beginners-guide-node-package-manager/)
 
 [PHPUnit](https://phpunit.de/)
 
@@ -67,7 +76,23 @@ Because we think it might help others as well we wanted to open-source it, feel 
 
 ## Processes
 
+[The Agile Manifesto](http://agilemanifesto.org/)
+
+[Agile Retrospectives](https://pragprog.com/book/dlret/agile-retrospectives)
+
 ## Frontend & UI/UX
+
+[MDN - Mozilla Developer Network](https://developer.mozilla.org/de/)
+
+[Talks To Help You Become A Better Front-End Engineer](https://www.smashingmagazine.com/2012/12/talks-to-help-you-become-a-better-front-end-engineer-in-2013/)
+
+[Eloquent Javascript](http://eloquentjavascript.net/)
+
+[Netflix UI Engineers Youtube Channel](https://www.youtube.com/channel/UCGGRRqAjPm6sL3-WGBDnKJA)
+
+[Twitter Bootstrap](http://getbootstrap.com/2.3.2/)
+
+[Babel.js - ES6 today](https://babeljs.io/)
 
 ## Best Practices
 
