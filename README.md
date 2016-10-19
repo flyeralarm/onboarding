@@ -1,7 +1,8 @@
 # Advanced Curriculum For The Software Craftsman
+
 ##curated @ [flyeralarm](https://flyeralarm.com)
 
-##This document is intended as guidance for new developers at flyeralarm
+##This document is intended as guidance for new developers joining our teams flyeralarm
 
 ##Basics
 
