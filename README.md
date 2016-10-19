@@ -2,8 +2,8 @@
 
 ## curated @ [flyeralarm](https://flyeralarm.com)
 
-## This document is intended as guidance for new developers joining our teams at flyeralarm
-## Because
+This document is intended as guidance for new developers joining our teams at flyeralarm
+Because we think it might help others as well we wanted to open-source it, feel free to contribute
 
 ## Basics
 
@@ -42,13 +42,26 @@
 [PSR - PHP Standard Recommendation](https://en.wikipedia.org/wiki/PHP_Standard_Recommendation)
 
 ## Tools
+
+[Git](https://git-scm.com/)
+
+[Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials/)
+
 [Composer - Dependency Manager For PHP](https://getcomposer.org/git)
 
+[PHPUnit](https://phpunit.de/)
+
 [Introduction to PHP Unit](https://jtreminio.com/2013/03/unit-testing-tutorial-introduction-to-phpunit/)
+
+[Twelve Benefits of Writing Unit Tests First](http://sd.jtimothyking.com/2006/07/11/twelve-benefits-of-writing-unit-tests-first/)
 
 ## Environment
 
 [Basic UNIX commands](http://mally.stanford.edu/~sr/computing/basic-unix.html)
+
+[Puppet Tutorial](http://www.example42.com/tutorials/PuppetTutorial/#slide-0)
+
+[Puphpet - GUI to set up virtual machines for web development](https://puphpet.com/)
 
 ## Persistence
 
@@ -59,3 +72,9 @@
 ## Best Practices
 
 [The Pragmatic Programmer](https://pragprog.com/book/tpp/the-pragmatic-programmer)
+
+Go to a local User Group
+
+Read open-source code on [GitHub](https://www.github.com)
+
+Never stop building stuff
