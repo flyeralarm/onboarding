@@ -1,10 +1,10 @@
-#Advanced Curriculum For The Software Craftsman
+# Advanced Curriculum For The Software Craftsman
 
-##curated @ [flyeralarm](https://flyeralarm.com)
+## curated @ [flyeralarm](https://flyeralarm.com)
 
-##This document is intended as guidance for new developers joining our teams flyeralarm
+## This document is intended as guidance for new developers joining our teams flyeralarm
 
-##Basics
+## Basics
 
 [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets](http://www.joelonsoftware.com/articles/Unicode.html)
 
@@ -24,24 +24,24 @@
 
 [Google's Python Class](https://developers.google.com/edu/python/)
 
-##Design And Architecture Of Software
+## Design And Architecture Of Software
 
-##PHP
+## PHP
 [PHP The Right Way](http://www.phptherightway.com/)
 
 
-##Tools
+## Tools
 [Composer - Dependency Manager For PHP](https://getcomposer.org/git)
 
 
-##Environment
+## Environment
 
 ## Persistence
 
-##Processes
+## Processes
 
-##Frontend & UI/UX
+## Frontend & UI/UX
 
-##Best Practices
+## Best Practices
 
 [The Pragmatic Programmer](https://pragprog.com/book/tpp/the-pragmatic-programmer)
