@@ -2,7 +2,8 @@
 
 ## curated @ [flyeralarm](https://flyeralarm.com)
 
-## This document is intended as guidance for new developers joining our teams flyeralarm
+## This document is intended as guidance for new developers joining our teams at flyeralarm
+## Because
 
 ## Basics
 
@@ -26,15 +27,28 @@
 
 ## Design And Architecture Of Software
 
+[DesignPatternsPHP](https://github.com/domnikl/DesignPatternsPHP/blob/master/README.rst)
+
+[18 must-watch PHP architecture talks](https://www.reddit.com/r/PHP/comments/3kklt5/18_mustwatch_php_architecture_talks_13hrs/)
+
+[Practical Object-Oriented Design in Ruby](https://www.amazon.de/Practical-Object-Oriented-Design-Ruby-Addison-Wesley/dp/0321721330/ref=sr_1_1?s=books-intl-de&ie=UTF8&qid=1476881380&sr=1-1&keywords=practical+object-oriented+design+in+ruby)
+
 ## PHP
+
 [PHP The Right Way](http://www.phptherightway.com/)
 
+[PHP Framework Interoperability Group](http://www.php-fig.org/)
+
+[PSR - PHP Standard Recommendation](https://en.wikipedia.org/wiki/PHP_Standard_Recommendation)
 
 ## Tools
 [Composer - Dependency Manager For PHP](https://getcomposer.org/git)
 
+[Introduction to PHP Unit](https://jtreminio.com/2013/03/unit-testing-tutorial-introduction-to-phpunit/)
 
 ## Environment
+
+[Basic UNIX commands](http://mally.stanford.edu/~sr/computing/basic-unix.html)
 
 ## Persistence
 
