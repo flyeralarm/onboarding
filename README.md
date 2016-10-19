@@ -4,7 +4,7 @@
 
 This document is intended as guidance for new developers joining our teams at flyeralarm.
 
-Because we think it might help others as well we wanted to open-source it, feel free to contribute or comment.
+Because we think it might help others as well we wanted to open-source it. Feel free to contribute or comment.
 
 ## Basics
 
@@ -28,11 +28,19 @@ Because we think it might help others as well we wanted to open-source it, feel 
 
 ## Design And Architecture Of Software
 
+[Clean Code](https://www.amazon.com/gp/product/0132350882/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0132350882&linkCode=as2&tag=sdrl-20)
+
 [DesignPatternsPHP](https://github.com/domnikl/DesignPatternsPHP/blob/master/README.rst)
 
 [18 must-watch PHP architecture talks](https://www.reddit.com/r/PHP/comments/3kklt5/18_mustwatch_php_architecture_talks_13hrs/)
 
 [Practical Object-Oriented Design in Ruby](https://www.amazon.de/Practical-Object-Oriented-Design-Ruby-Addison-Wesley/dp/0321721330/ref=sr_1_1?s=books-intl-de&ie=UTF8&qid=1476881380&sr=1-1&keywords=practical+object-oriented+design+in+ruby)
+
+[Patterns of Enterprise Application Architecture](https://www.amazon.de/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420/ref=sr_1_1?ie=UTF8&qid=1476887236&sr=8-1&keywords=patterns+of+enterprise+application+architecture)
+
+[Domain Driven Design](https://www.amazon.de/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/ref=sr_1_1?ie=UTF8&qid=1476887211&sr=8-1&keywords=domain+driven+design)
+
+[CQRS and Event Sourcing](https://www.youtube.com/watch?v=JHGkaShoyNs)
 
 ## PHP
 
@@ -74,6 +82,8 @@ Because we think it might help others as well we wanted to open-source it, feel 
 
 ## Persistence
 
+[High Performance Mysql](https://www.amazon.de/High-Performance-MySQL-Baron-Schwartz/dp/1449314287/ref=sr_1_1?ie=UTF8&qid=1476889034&sr=8-1&keywords=high+performance+mysql)
+
 ## Processes
 
 [The Agile Manifesto](http://agilemanifesto.org/)
@@ -94,9 +104,17 @@ Because we think it might help others as well we wanted to open-source it, feel 
 
 [Babel.js - ES6 today](https://babeljs.io/)
 
+[Don't make me think - Web Usability](https://www.amazon.de/Dont-make-think-Usability-intuitive/dp/3826697057/ref=sr_1_1?ie=UTF8&qid=1476888649&sr=8-1&keywords=dont+make+me+think)
+
 ## Best Practices
 
+[The Best Code is No Code At All](https://blog.codinghorror.com/the-best-code-is-no-code-at-all/)
+
 [The Pragmatic Programmer](https://pragprog.com/book/tpp/the-pragmatic-programmer)
+
+[Refactoring: Improving the Design of Existing Code](https://www.amazon.com/exec/obidos/ASIN/0201485672/codihorr-20)
+
+[The full stackoverflow developer](https://www.christianheilmann.com/2015/07/17/the-full-stackoverflow-developer/)
 
 Go to a local User Group
 
