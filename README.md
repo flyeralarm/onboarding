@@ -1,4 +1,4 @@
-# Advanced Curriculum For The Software Craftsman
+#Advanced Curriculum For The Software Craftsman
 
 ##curated @ [flyeralarm](https://flyeralarm.com)
 
@@ -20,12 +20,19 @@
 
 [TCP/IP Protocol Fundamentals Explained with a Diagram](http://www.thegeekstuff.com/2011/11/tcp-ip-fundamentals)
 
+[Google Developer Training For The Web](https://developers.google.com/training/web/)
+
+[Google's Python Class](https://developers.google.com/edu/python/)
 
 ##Design And Architecture Of Software
 
 ##PHP
+[PHP The Right Way](http://www.phptherightway.com/)
+
 
 ##Tools
+[Composer - Dependency Manager For PHP](https://getcomposer.org/git)
+
 
 ##Environment
 
@@ -36,3 +43,5 @@
 ##Frontend & UI/UX
 
 ##Best Practices
+
+[The Pragmatic Programmer](https://pragprog.com/book/tpp/the-pragmatic-programmer)
