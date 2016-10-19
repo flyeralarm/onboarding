@@ -4,6 +4,7 @@
 ##This document is intended as guidance for new developers at flyeralarm
 
 ##Basics
+
 [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets](http://www.joelonsoftware.com/articles/Unicode.html)
 
 [What Every Programmer Should Know About Memory](https://www.akkadia.org/drepper/cpumemory.pdf)
