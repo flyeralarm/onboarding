@@ -13,7 +13,6 @@ Because we think it might help others as well we open-sourced it. Feel free to c
 * [An Introduction To HTTP Basics](https://www.ntu.edu.sg/home/ehchua/programming/webprogramming/HTTP_Basics.html)
 * [TCP/IP Protocol Fundamentals Explained with a Diagram](http://www.thegeekstuff.com/2011/11/tcp-ip-fundamentals)
 * [Google Developer Training For The Web](https://developers.google.com/training/web/)
-* [Google's Python Class](https://developers.google.com/edu/python/)
 * [Visualising data structures and algorithms through animation](https://visualgo.net/)
 
 ## Design And Architecture Of Software
