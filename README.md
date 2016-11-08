@@ -72,6 +72,10 @@ Because we think it might help others as well we open-sourced it. Feel free to c
 * [Babel.js - ES6 today](https://babeljs.io/)
 * [Don't make me think - Web Usability](https://www.amazon.de/Dont-make-think-Usability-intuitive/dp/3826697057/ref=sr_1_1?ie=UTF8&qid=1476888649&sr=8-1&keywords=dont+make+me+think)
 
+## Web Security
+
+* [OWASP - Open Web Application Security Project](https://www.owasp.org/index.php/Main_Page)
+
 ## Best Practices
 
 * [The Best Code is No Code At All](https://blog.codinghorror.com/the-best-code-is-no-code-at-all/)
