@@ -55,6 +55,7 @@ Because we think it might help others as well we open-sourced it. Feel free to c
 
 * [High Performance Mysql](https://www.amazon.de/High-Performance-MySQL-Baron-Schwartz/dp/1449314287/ref=sr_1_1?ie=UTF8&qid=1476889034&sr=8-1&keywords=high+performance+mysql)
 * [Rules of Thumb for MySQL](http://mysql.rjweb.org/doc.php/ricksrots)
+* [The Little Redis Book](http://openmymind.net/redis.pdf)
 
 ## Processes
 
