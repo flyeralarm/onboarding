@@ -8,6 +8,7 @@ Because we think it might help others as well we open-sourced it. Feel free to c
 * [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets](http://www.joelonsoftware.com/articles/Unicode.html)
 * [What Every Programmer Should Know About Memory](https://www.akkadia.org/drepper/cpumemory.pdf)
 * [What Every Developer Should Know About Time](https://unix4lyfe.org/time/?v=1)
+* [A story about an angry carrot and a floating point fairy](http://blog.ruslans.com/2014/12/a-story-about-angry-carrot-and-floating.html)
 * [How The Web Works](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
 * [HTTP on Wikipedia](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
 * [An Introduction To HTTP Basics](https://www.ntu.edu.sg/home/ehchua/programming/webprogramming/HTTP_Basics.html)
