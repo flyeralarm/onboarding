@@ -1,7 +1,7 @@
 # Advanced Curriculum For The Software Craftsman
 
 This document is intended as a guidance for new developers joining our teams at [FLYERALARM](https://flyeralarm.com).
-Because we think it might help others as well we open-sourced it. If you feel we've missed something, feel free to send us a Pull-Request.
+Because we think it might help others as well we open-sourced it. If you know something that's missing feel free send us a Pull-Request.
 
 ## Basics
 
