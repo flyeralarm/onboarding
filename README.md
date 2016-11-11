@@ -93,4 +93,4 @@ Because we think it might help others as well we open-sourced it. If you know so
 
 
 
-On a side note: [We are searching for talented people to join our various teams of developers on various locations](https://karriere.flyeralarm.com/jobs)
+On a side note: [We are searching for talented people to join our various teams of developers in multiple locations](https://karriere.flyeralarm.com/jobs)
