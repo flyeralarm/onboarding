@@ -12,9 +12,12 @@ Because we think it might help others as well we open-sourced it. If you know so
 * [How The Web Works](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
 * [HTTP on Wikipedia](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
 * [An Introduction To HTTP Basics](https://www.ntu.edu.sg/home/ehchua/programming/webprogramming/HTTP_Basics.html)
+* [HTTP: The Protocol Every Web Developer Must Know](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
 * [TCP/IP Protocol Fundamentals Explained with a Diagram](http://www.thegeekstuff.com/2011/11/tcp-ip-fundamentals)
 * [Google Developer Training For The Web](https://developers.google.com/training/web/)
 * [Visualising data structures and algorithms through animation](https://visualgo.net/)
+* [An Introduction to Networking Terminology, Interfaces, and Protocols](https://www.digitalocean.com/community/tutorials/an-introduction-to-networking-terminology-interfaces-and-protocols)
+* [Choosing an HTTP Status Code — Stop Making It Hard](http://racksburg.com/choosing-an-http-status-code/)
 
 ## Design And Architecture Of Software
 
