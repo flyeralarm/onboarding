@@ -73,11 +73,17 @@ Because we think it might help others as well we open-sourced it. If you know so
 
 * [MDN - Mozilla Developer Network](https://developer.mozilla.org/de/)
 * [Talks To Help You Become A Better Front-End Engineer](https://www.smashingmagazine.com/2012/12/talks-to-help-you-become-a-better-front-end-engineer-in-2013/)
-* [Eloquent Javascript](http://eloquentjavascript.net/)
 * [Netflix UI Engineers Youtube Channel](https://www.youtube.com/channel/UCGGRRqAjPm6sL3-WGBDnKJA)
 * [Twitter Bootstrap](http://getbootstrap.com)
-* [Babel.js - ES6 today](https://babeljs.io/)
 * [Don't make me think - Web Usability](https://www.amazon.de/Dont-make-think-Usability-intuitive/dp/3826697057/ref=sr_1_1?ie=UTF8&qid=1476888649&sr=8-1&keywords=dont+make+me+think)
+
+### JavaScript
+* [Learn JavaScript Essentials](https://medium.com/javascript-scene/learn-javascript-b631a4af11f2#.ggqhkheuz)
+* [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript)
+* [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
+* [JavaScript reference - MDN (Mozilla Developer Network)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* [Eloquent Javascript](http://eloquentjavascript.net/)
+* [Babel.js - ES6 today](https://babeljs.io/)
 
 ## Web Security
 
