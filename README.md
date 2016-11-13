@@ -30,10 +30,14 @@ Because we think it might help others as well we open-sourced it. If you know so
 ## PHP
 
 * [PHP The Right Way](http://www.phptherightway.com/)
+* [PHP The Wrong Way](http://www.phpthewrongway.com/)
+* [A response to PHP The Wrong Way](https://medium.com/@jon.lemaitre/a-response-to-php-the-wrong-way-fe7bb253e295)
 * [PHP Framework Interoperability Group](http://www.php-fig.org/)
 * [PSR - PHP Standard Recommendation](https://en.wikipedia.org/wiki/PHP_Standard_Recommendation)
 * [PHP Library Discovery](https://www.youtube.com/watch?v=3kD9t0GVGGY&feature=youtu.be)
 * [PHP Logging Basics](https://www.loggly.com/ultimate-guide/php-logging-basics/)
+* [Awesome PHP (A curated list of amazingly awesome PHP libraries, resources and shiny things)](https://github.com/ziadoz/awesome-php) 
+* [Efficient Data structures for PHP 7](https://medium.com/@rtheunissen/efficient-data-structures-for-php-7-9dda7af674cd)
 
 ## Tools
 
