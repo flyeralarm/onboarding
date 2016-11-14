@@ -16,8 +16,13 @@ Because we think it might help others as well we open-sourced it. If you know so
 * [TCP/IP Protocol Fundamentals Explained with a Diagram](http://www.thegeekstuff.com/2011/11/tcp-ip-fundamentals)
 * [Google Developer Training For The Web](https://developers.google.com/training/web/)
 * [Visualising data structures and algorithms through animation](https://visualgo.net/)
+<<<<<<< HEAD
 * [An Introduction to Networking Terminology, Interfaces, and Protocols](https://www.digitalocean.com/community/tutorials/an-introduction-to-networking-terminology-interfaces-and-protocols)
 * [Choosing an HTTP Status Code — Stop Making It Hard](http://racksburg.com/choosing-an-http-status-code/)
+=======
+* [Algorithms, Data Structures, and Design Patterns for Self-Taught Developers](https://antjanus.com/blog/web-development-tutorials/learn-the-unlearned-algorithms-data-structures-and-design-patterns/)
+* [A Gentle Introduction to Algorithms for Web Developers](http://giocc.com/a-gentle-introduction-to-algorithms-for-web-developers.html)
+>>>>>>> origin/master
 
 ## Design And Architecture Of Software
 
@@ -39,7 +44,7 @@ Because we think it might help others as well we open-sourced it. If you know so
 * [PSR - PHP Standard Recommendation](https://en.wikipedia.org/wiki/PHP_Standard_Recommendation)
 * [PHP Library Discovery](https://www.youtube.com/watch?v=3kD9t0GVGGY&feature=youtu.be)
 * [PHP Logging Basics](https://www.loggly.com/ultimate-guide/php-logging-basics/)
-* [Awesome PHP (A curated list of amazingly awesome PHP libraries, resources and shiny things)](https://github.com/ziadoz/awesome-php) 
+* [Awesome PHP (A curated list of amazingly awesome PHP libraries, resources and shiny things)](https://github.com/ziadoz/awesome-php)
 * [Efficient Data structures for PHP 7](https://medium.com/@rtheunissen/efficient-data-structures-for-php-7-9dda7af674cd)
 
 ## Tools
@@ -76,11 +81,17 @@ Because we think it might help others as well we open-sourced it. If you know so
 
 * [MDN - Mozilla Developer Network](https://developer.mozilla.org/de/)
 * [Talks To Help You Become A Better Front-End Engineer](https://www.smashingmagazine.com/2012/12/talks-to-help-you-become-a-better-front-end-engineer-in-2013/)
-* [Eloquent Javascript](http://eloquentjavascript.net/)
 * [Netflix UI Engineers Youtube Channel](https://www.youtube.com/channel/UCGGRRqAjPm6sL3-WGBDnKJA)
 * [Twitter Bootstrap](http://getbootstrap.com)
-* [Babel.js - ES6 today](https://babeljs.io/)
 * [Don't make me think - Web Usability](https://www.amazon.de/Dont-make-think-Usability-intuitive/dp/3826697057/ref=sr_1_1?ie=UTF8&qid=1476888649&sr=8-1&keywords=dont+make+me+think)
+
+## JavaScript
+* [Learn JavaScript Essentials](https://medium.com/javascript-scene/learn-javascript-b631a4af11f2#.ggqhkheuz)
+* [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript)
+* [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
+* [JavaScript reference - MDN (Mozilla Developer Network)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* [Eloquent Javascript](http://eloquentjavascript.net/)
+* [Babel.js - ES6 today](https://babeljs.io/)
 
 ## Web Security
 
