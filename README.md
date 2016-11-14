@@ -17,6 +17,9 @@ Because we think it might help others as well we open-sourced it. If you know so
 * [Visualising data structures and algorithms through animation](https://visualgo.net/)
 * [Algorithms, Data Structures, and Design Patterns for Self-Taught Developers](https://antjanus.com/blog/web-development-tutorials/learn-the-unlearned-algorithms-data-structures-and-design-patterns/)
 * [A Gentle Introduction to Algorithms for Web Developers](http://giocc.com/a-gentle-introduction-to-algorithms-for-web-developers.html)
+* [HTTP: The Protocol Every Web Developer Must Know](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
+* [An Introduction to Networking Terminology, Interfaces, and Protocols](https://www.digitalocean.com/community/tutorials/an-introduction-to-networking-terminology-interfaces-and-protocols)
+* [Choosing an HTTP Status Code — Stop Making It Hard](http://racksburg.com/choosing-an-http-status-code/)
 
 ## Design And Architecture Of Software
 
