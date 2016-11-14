@@ -78,6 +78,7 @@ Because we think it might help others as well we open-sourced it. If you know so
 * [Don't make me think - Web Usability](https://www.amazon.de/Dont-make-think-Usability-intuitive/dp/3826697057/ref=sr_1_1?ie=UTF8&qid=1476888649&sr=8-1&keywords=dont+make+me+think)
 
 ## JavaScript
+
 * [Learn JavaScript Essentials](https://medium.com/javascript-scene/learn-javascript-b631a4af11f2#.ggqhkheuz)
 * [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript)
 * [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
