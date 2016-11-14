@@ -17,7 +17,6 @@ Because we think it might help others as well we open-sourced it. If you know so
 * [Visualising data structures and algorithms through animation](https://visualgo.net/)
 * [Algorithms, Data Structures, and Design Patterns for Self-Taught Developers](https://antjanus.com/blog/web-development-tutorials/learn-the-unlearned-algorithms-data-structures-and-design-patterns/)
 * [A Gentle Introduction to Algorithms for Web Developers](http://giocc.com/a-gentle-introduction-to-algorithms-for-web-developers.html)
-* [
 
 ## Design And Architecture Of Software
 
@@ -39,7 +38,7 @@ Because we think it might help others as well we open-sourced it. If you know so
 * [PSR - PHP Standard Recommendation](https://en.wikipedia.org/wiki/PHP_Standard_Recommendation)
 * [PHP Library Discovery](https://www.youtube.com/watch?v=3kD9t0GVGGY&feature=youtu.be)
 * [PHP Logging Basics](https://www.loggly.com/ultimate-guide/php-logging-basics/)
-* [Awesome PHP (A curated list of amazingly awesome PHP libraries, resources and shiny things)](https://github.com/ziadoz/awesome-php) 
+* [Awesome PHP (A curated list of amazingly awesome PHP libraries, resources and shiny things)](https://github.com/ziadoz/awesome-php)
 * [Efficient Data structures for PHP 7](https://medium.com/@rtheunissen/efficient-data-structures-for-php-7-9dda7af674cd)
 
 ## Tools
