@@ -62,6 +62,7 @@ Because we think it might help others as well we open-sourced it. If you know so
 
 * [High Performance Mysql](https://www.amazon.de/High-Performance-MySQL-Baron-Schwartz/dp/1449314287/ref=sr_1_1?ie=UTF8&qid=1476889034&sr=8-1&keywords=high+performance+mysql)
 * [Rules of Thumb for MySQL](http://mysql.rjweb.org/doc.php/ricksrots)
+* [Use the index, Luke - a guide to database performance for developers] (http://use-the-index-luke.com/)
 * [The Little Redis Book](http://openmymind.net/redis.pdf)
 * [Building an Event Storage](https://cqrs.wordpress.com/documents/building-event-storage/)
 
