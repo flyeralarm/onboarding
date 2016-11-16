@@ -97,6 +97,14 @@ Because we think it might help others as well we open-sourced it. If you know so
 
 * [OWASP - Open Web Application Security Project](https://www.owasp.org/index.php/Main_Page)
 
+## Programming Concepts
+
+* [The Stack and the Heap](https://thesocietea.org/2014/10/programming-concepts-the-stack-and-the-heap/)
+* [Compiled and Interpreted Languages](https://thesocietea.org/2015/07/programming-concepts-compiled-and-interpreted-languages/)
+* [Concurrency](https://thesocietea.org/2015/10/programming-concepts-concurrency/)
+* [Static vs. Dynamic Type Checking](https://thesocietea.org/2015/11/programming-concepts-static-vs-dynamic-type-checking/)
+* [Type Introspection and Reflection](https://thesocietea.org/2016/02/programming-concepts-type-introspection-and-reflection/)
+
 ## Best Practices
 
 * [The Best Code is No Code At All](https://blog.codinghorror.com/the-best-code-is-no-code-at-all/)
