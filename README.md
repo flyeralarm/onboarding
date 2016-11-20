@@ -97,6 +97,11 @@ Because we think it might help others as well we open-sourced it. If you know so
 
 * [OWASP - Open Web Application Security Project](https://www.owasp.org/index.php/Main_Page)
 
+# API
+
+* [Awesome API](https://github.com/Kikobeats/awesome-api)
+* [An introduction to APIs](https://restful.io/an-introduction-to-api-s-cee90581ca1b#.it7afo95l)
+
 ## Best Practices
 
 * [The Best Code is No Code At All](https://blog.codinghorror.com/the-best-code-is-no-code-at-all/)
