@@ -49,7 +49,7 @@ Because we think it might help others as well we open-sourced it. If you know so
 
 * [git](https://git-scm.com/)
 * [Atlassian git Tutorials](https://www.atlassian.com/git/tutorials/)
-* [Interactive git cheatsheet](http://ndpsoftware.com/git-cheatsheet.html)
+* [Interactive git Cheatsheet](http://ndpsoftware.com/git-cheatsheet.html)
 * [Composer - Dependency Manager For PHP](https://getcomposer.org/git)
 * [Packagist - The PHP Package Repository](https://packagist.org/)
 * [PHPUnit](https://phpunit.de/)
