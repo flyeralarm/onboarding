@@ -60,6 +60,7 @@ Because we think it might help others as well we open-sourced it. If you know so
 ## Environment
 
 * [Basic UNIX commands](http://mally.stanford.edu/~sr/computing/basic-unix.html)
+* [Explain Shell - Let it explain you what's going on](http://explainshell.com/)
 * [Puppet Tutorial](http://www.example42.com/tutorials/PuppetTutorial/#slide-0)
 * [Puphpet - GUI to set up virtual machines for web development](https://puphpet.com/)
 
