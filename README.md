@@ -15,6 +15,12 @@ Because we think it might help others as well we open-sourced it. If you know so
 * [TCP/IP Protocol Fundamentals Explained with a Diagram](http://www.thegeekstuff.com/2011/11/tcp-ip-fundamentals)
 * [Google Developer Training For The Web](https://developers.google.com/training/web/)
 * [Visualising data structures and algorithms through animation](https://visualgo.net/)
+* [Algorithms, Data Structures, and Design Patterns for Self-Taught Developers](https://antjanus.com/blog/web-development-tutorials/learn-the-unlearned-algorithms-data-structures-and-design-patterns/)
+* [A Gentle Introduction to Algorithms for Web Developers](http://giocc.com/a-gentle-introduction-to-algorithms-for-web-developers.html)
+* [HTTP: The Protocol Every Web Developer Must Know](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
+* [An Introduction to Networking Terminology, Interfaces, and Protocols](https://www.digitalocean.com/community/tutorials/an-introduction-to-networking-terminology-interfaces-and-protocols)
+* [Choosing an HTTP Status Code — Stop Making It Hard](http://racksburg.com/choosing-an-http-status-code/)
+* [How Browser Caching Works](https://thesocietea.org/2016/05/how-browser-caching-works/)
 
 ## Design And Architecture Of Software
 
@@ -30,15 +36,20 @@ Because we think it might help others as well we open-sourced it. If you know so
 ## PHP
 
 * [PHP The Right Way](http://www.phptherightway.com/)
+* [PHP The Wrong Way](http://www.phpthewrongway.com/)
+* [A response to PHP The Wrong Way](https://medium.com/@jon.lemaitre/a-response-to-php-the-wrong-way-fe7bb253e295)
 * [PHP Framework Interoperability Group](http://www.php-fig.org/)
 * [PSR - PHP Standard Recommendation](https://en.wikipedia.org/wiki/PHP_Standard_Recommendation)
 * [PHP Library Discovery](https://www.youtube.com/watch?v=3kD9t0GVGGY&feature=youtu.be)
 * [PHP Logging Basics](https://www.loggly.com/ultimate-guide/php-logging-basics/)
+* [Awesome PHP (A curated list of amazingly awesome PHP libraries, resources and shiny things)](https://github.com/ziadoz/awesome-php)
+* [Efficient Data structures for PHP 7](https://medium.com/@rtheunissen/efficient-data-structures-for-php-7-9dda7af674cd)
 
 ## Tools
 
 * [git](https://git-scm.com/)
 * [Atlassian git Tutorials](https://www.atlassian.com/git/tutorials/)
+* [Interactive git Cheatsheet](http://ndpsoftware.com/git-cheatsheet.html)
 * [Composer - Dependency Manager For PHP](https://getcomposer.org/git)
 * [Packagist - The PHP Package Repository](https://packagist.org/)
 * [PHPUnit](https://phpunit.de/)
@@ -56,6 +67,7 @@ Because we think it might help others as well we open-sourced it. If you know so
 
 * [High Performance Mysql](https://www.amazon.de/High-Performance-MySQL-Baron-Schwartz/dp/1449314287/ref=sr_1_1?ie=UTF8&qid=1476889034&sr=8-1&keywords=high+performance+mysql)
 * [Rules of Thumb for MySQL](http://mysql.rjweb.org/doc.php/ricksrots)
+* [Use the index, Luke - a guide to database performance for developers] (http://use-the-index-luke.com/)
 * [The Little Redis Book](http://openmymind.net/redis.pdf)
 * [Building an Event Storage](https://cqrs.wordpress.com/documents/building-event-storage/)
 
@@ -69,11 +81,18 @@ Because we think it might help others as well we open-sourced it. If you know so
 
 * [MDN - Mozilla Developer Network](https://developer.mozilla.org/de/)
 * [Talks To Help You Become A Better Front-End Engineer](https://www.smashingmagazine.com/2012/12/talks-to-help-you-become-a-better-front-end-engineer-in-2013/)
-* [Eloquent Javascript](http://eloquentjavascript.net/)
 * [Netflix UI Engineers Youtube Channel](https://www.youtube.com/channel/UCGGRRqAjPm6sL3-WGBDnKJA)
 * [Twitter Bootstrap](http://getbootstrap.com)
-* [Babel.js - ES6 today](https://babeljs.io/)
 * [Don't make me think - Web Usability](https://www.amazon.de/Dont-make-think-Usability-intuitive/dp/3826697057/ref=sr_1_1?ie=UTF8&qid=1476888649&sr=8-1&keywords=dont+make+me+think)
+
+## JavaScript
+
+* [Learn JavaScript Essentials](https://medium.com/javascript-scene/learn-javascript-b631a4af11f2#.ggqhkheuz)
+* [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript)
+* [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
+* [JavaScript reference - MDN (Mozilla Developer Network)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* [Eloquent Javascript](http://eloquentjavascript.net/)
+* [Babel.js - ES6 today](https://babeljs.io/)
 
 ## Web Security
 
@@ -93,4 +112,4 @@ Because we think it might help others as well we open-sourced it. If you know so
 
 
 
-On a side note: [We are searching for talented people to join our various teams of developers on various locations](https://karriere.flyeralarm.com/jobs)
+On a side note: [We are searching for talented people to join our various teams of developers in multiple locations](https://karriere.flyeralarm.com/jobs)
