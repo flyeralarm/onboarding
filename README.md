@@ -49,6 +49,7 @@ Because we think it might help others as well we open-sourced it. If you know so
 
 * [git](https://git-scm.com/)
 * [Atlassian git Tutorials](https://www.atlassian.com/git/tutorials/)
+* [Interactive git Cheatsheet](http://ndpsoftware.com/git-cheatsheet.html)
 * [Composer - Dependency Manager For PHP](https://getcomposer.org/git)
 * [Packagist - The PHP Package Repository](https://packagist.org/)
 * [PHPUnit](https://phpunit.de/)
@@ -59,6 +60,7 @@ Because we think it might help others as well we open-sourced it. If you know so
 ## Environment
 
 * [Basic UNIX commands](http://mally.stanford.edu/~sr/computing/basic-unix.html)
+* [Explain Shell - Let it explain you what's going on](http://explainshell.com/)
 * [Puppet Tutorial](http://www.example42.com/tutorials/PuppetTutorial/#slide-0)
 * [Puphpet - GUI to set up virtual machines for web development](https://puphpet.com/)
 
