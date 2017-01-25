@@ -94,6 +94,9 @@ Because we think it might help others as well we open-sourced it. If you know so
 * [JavaScript reference - MDN (Mozilla Developer Network)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * [Eloquent Javascript](http://eloquentjavascript.net/)
 * [Babel.js - ES6 today](https://babeljs.io/)
+* [Essential Javascript Links](https://github.com/ericelliott/essential-javascript-links)
+* [A curated list of awesome functional programming stuff in js](https://github.com/stoeffel/awesome-fp-js)
+* [Javascript Cheat Sheet](https://www.codementor.io/johnnyb/tutorials/javascript-cheatsheet-fb54lz08k)
 
 ## Web Security
 
