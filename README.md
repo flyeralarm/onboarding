@@ -98,6 +98,7 @@ Because we think it might help others as well we open-sourced it. If you know so
 ## Web Security
 
 * [OWASP - Open Web Application Security Project](https://www.owasp.org/index.php/Main_Page)
+* [A Gentle Introduction to Application Security](https://paragonie.com/blog/2015/08/gentle-introduction-application-security)
 
 ## Best Practices
 
