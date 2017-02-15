@@ -94,7 +94,7 @@ Because we think it might help others as well we open-sourced it. If you know so
 * [JavaScript reference - MDN (Mozilla Developer Network)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * [Eloquent Javascript](http://eloquentjavascript.net/)
 * [Babel.js - ES6 today](https://babeljs.io/)
-* [Essential Javascript Patters] (https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+* [Essential Javascript Patters](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 
 ## Web Security
 
