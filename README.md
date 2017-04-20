@@ -109,6 +109,7 @@ Because we think it might help others as well we open-sourced it. If you know so
 * [Refactoring: Improving the Design of Existing Code](https://www.amazon.com/exec/obidos/ASIN/0201485672/codihorr-20)
 * [The full stackoverflow developer](https://www.christianheilmann.com/2015/07/17/the-full-stackoverflow-developer/)
 * [Measure anything, measure everything](https://codeascraft.com/2011/02/15/measure-anything-measure-everything/)
+* [Papers from the computer science community to read and discuss](https://github.com/papers-we-love/papers-we-love)
 * Go to a local user group
 * Read open-source code on [GitHub](https://www.github.com)
 * Never stop building stuff
