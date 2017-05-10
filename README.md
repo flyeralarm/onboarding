@@ -96,6 +96,10 @@ Because we think it might help others as well we open-sourced it. If you know so
 * [Babel.js - ES6 today](https://babeljs.io/)
 * [Essential Javascript Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 
+## Browser Tools
+
+* [Fill Forms via Bookmarklets](http://www.benjaminkeen.com/open-source-projects/smaller-projects/form-filler-bookmarklet/)
+
 ## Web Security
 
 * [OWASP - Open Web Application Security Project](https://www.owasp.org/index.php/Main_Page)
