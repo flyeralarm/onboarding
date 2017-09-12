@@ -21,6 +21,7 @@ Because we think it might help others as well we open-sourced it. If you know so
 * [An Introduction to Networking Terminology, Interfaces, and Protocols](https://www.digitalocean.com/community/tutorials/an-introduction-to-networking-terminology-interfaces-and-protocols)
 * [Choosing an HTTP Status Code — Stop Making It Hard](http://racksburg.com/choosing-an-http-status-code/)
 * [How Browser Caching Works](https://thesocietea.org/2016/05/how-browser-caching-works/)
+* [How does a web session work ?](http://machinesaredigging.com/2013/10/29/how-does-a-web-session-work/)
 
 ## Design And Architecture Of Software
 
