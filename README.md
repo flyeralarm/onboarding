@@ -1,7 +1,7 @@
 # Advanced Curriculum For The Software Craftsman
 
 This document is intended as a guidance for new developers joining our teams at [FLYERALARM](https://flyeralarm.com).
-Because we think it might help others as well we open-sourced it. If you know something that's missing feel free send us a Pull-Request.
+Because we think it might help others as well we open-sourced it. If you know something that's missing feel free to send us a Pull-Request.
 
 ## Basics
 
@@ -50,7 +50,7 @@ Because we think it might help others as well we open-sourced it. If you know so
 * [git](https://git-scm.com/)
 * [Atlassian git Tutorials](https://www.atlassian.com/git/tutorials/)
 * [Interactive git Cheatsheet](http://ndpsoftware.com/git-cheatsheet.html)
-* [Composer - Dependency Manager For PHP](https://getcomposer.org/git)
+* [Composer - Dependency Manager For PHP](https://getcomposer.org/)
 * [Packagist - The PHP Package Repository](https://packagist.org/)
 * [PHPUnit](https://phpunit.de/)
 * [Introduction to PHP Unit](https://jtreminio.com/2013/03/unit-testing-tutorial-introduction-to-phpunit/)
@@ -94,10 +94,17 @@ Because we think it might help others as well we open-sourced it. If you know so
 * [JavaScript reference - MDN (Mozilla Developer Network)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * [Eloquent Javascript](http://eloquentjavascript.net/)
 * [Babel.js - ES6 today](https://babeljs.io/)
+* [Essential Javascript Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 
 ## Web Security
 
 * [OWASP - Open Web Application Security Project](https://www.owasp.org/index.php/Main_Page)
+* [A Gentle Introduction to Application Security](https://paragonie.com/blog/2015/08/gentle-introduction-application-security)
+
+## API
+
+* [Awesome API](https://github.com/Kikobeats/awesome-api)
+* [An introduction to APIs](https://restful.io/an-introduction-to-api-s-cee90581ca1b#.it7afo95l)
 
 ## Best Practices
 
@@ -107,6 +114,7 @@ Because we think it might help others as well we open-sourced it. If you know so
 * [Refactoring: Improving the Design of Existing Code](https://www.amazon.com/exec/obidos/ASIN/0201485672/codihorr-20)
 * [The full stackoverflow developer](https://www.christianheilmann.com/2015/07/17/the-full-stackoverflow-developer/)
 * [Measure anything, measure everything](https://codeascraft.com/2011/02/15/measure-anything-measure-everything/)
+* [Papers from the computer science community to read and discuss](https://github.com/papers-we-love/papers-we-love)
 * Go to a local user group
 * Read open-source code on [GitHub](https://www.github.com)
 * Never stop building stuff
