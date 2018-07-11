@@ -69,7 +69,7 @@ Because we think it might help others as well we open-sourced it. If you know so
 ## Persistence
 
 * [SQL Performance Explained - Short and useful book about SQL performance for developers](https://www.amazon.de/SQL-Performance-Explained-Entwickler-SQL-Performance/dp/3950307818)
-* [Use the index, Luke - a guide to database performance for developers] (http://use-the-index-luke.com/)
+* [Use the index, Luke - a guide to database performance for developers](http://use-the-index-luke.com/)
 * [The Little Redis Book](http://openmymind.net/redis.pdf)
 * [Building an Event Storage](https://cqrs.wordpress.com/documents/building-event-storage/)
 
