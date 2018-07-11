@@ -12,6 +12,7 @@ Because we think it might help others as well we open-sourced it. If you know so
 * [How The Web Works](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
 * [HTTP on Wikipedia](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
 * [An Introduction To HTTP Basics](https://www.ntu.edu.sg/home/ehchua/programming/webprogramming/HTTP_Basics.html)
+* [Choosing an HTTP Status Code — Stop Making It Hard](http://racksburg.com/choosing-an-http-status-code/)
 * [TCP/IP Protocol Fundamentals Explained with a Diagram](http://www.thegeekstuff.com/2011/11/tcp-ip-fundamentals)
 * [Google Developer Training For The Web](https://developers.google.com/training/web/)
 * [Visualising data structures and algorithms through animation](https://visualgo.net/)
@@ -19,13 +20,13 @@ Because we think it might help others as well we open-sourced it. If you know so
 * [A Gentle Introduction to Algorithms for Web Developers](http://giocc.com/a-gentle-introduction-to-algorithms-for-web-developers.html)
 * [HTTP: The Protocol Every Web Developer Must Know](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
 * [An Introduction to Networking Terminology, Interfaces, and Protocols](https://www.digitalocean.com/community/tutorials/an-introduction-to-networking-terminology-interfaces-and-protocols)
-* [Choosing an HTTP Status Code — Stop Making It Hard](http://racksburg.com/choosing-an-http-status-code/)
 * [How Browser Caching Works](https://thesocietea.org/2016/05/how-browser-caching-works/)
 
 ## Design And Architecture Of Software
 
 * [Clean Code](https://www.amazon.com/gp/product/0132350882/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0132350882&linkCode=as2&tag=sdrl-20)
 * [DesignPatternsPHP](https://github.com/domnikl/DesignPatternsPHP)
+* [All the cool kids...](https://www.youtube.com/watch?v=EDXgNA_pXX0)
 * [18 must-watch PHP architecture talks](https://www.reddit.com/r/PHP/comments/3kklt5/18_mustwatch_php_architecture_talks_13hrs/)
 * [Practical Object-Oriented Design in Ruby](https://www.amazon.de/Practical-Object-Oriented-Design-Ruby-Addison-Wesley/dp/0321721330/ref=sr_1_1?s=books-intl-de&ie=UTF8&qid=1476881380&sr=1-1&keywords=practical+object-oriented+design+in+ruby)
 * [Patterns of Enterprise Application Architecture](https://www.amazon.de/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420/ref=sr_1_1?ie=UTF8&qid=1476887236&sr=8-1&keywords=patterns+of+enterprise+application+architecture)
@@ -61,16 +62,24 @@ Because we think it might help others as well we open-sourced it. If you know so
 
 * [Basic UNIX commands](http://mally.stanford.edu/~sr/computing/basic-unix.html)
 * [Explain Shell - Let it explain you what's going on](http://explainshell.com/)
-* [Puppet Tutorial](http://www.example42.com/tutorials/PuppetTutorial/#slide-0)
-* [Puphpet - GUI to set up virtual machines for web development](https://puphpet.com/)
+* [Docker Docs](https://docs.docker.com/)
+* [How to write Anible Playbooks](https://www.digitalocean.com/community/tutorials/configuration-management-101-writing-ansible-playbooks)
+* [Ansible Docs](https://docs.ansible.com/)
 
 ## Persistence
 
-* [High Performance Mysql](https://www.amazon.de/High-Performance-MySQL-Baron-Schwartz/dp/1449314287/ref=sr_1_1?ie=UTF8&qid=1476889034&sr=8-1&keywords=high+performance+mysql)
-* [Rules of Thumb for MySQL](http://mysql.rjweb.org/doc.php/ricksrots)
+* [SQL Performance Explained - Short and useful book about SQL performance for developers](https://www.amazon.de/SQL-Performance-Explained-Entwickler-SQL-Performance/dp/3950307818)
 * [Use the index, Luke - a guide to database performance for developers] (http://use-the-index-luke.com/)
 * [The Little Redis Book](http://openmymind.net/redis.pdf)
 * [Building an Event Storage](https://cqrs.wordpress.com/documents/building-event-storage/)
+
+## Monitoring & Alerting
+
+* [How to monitor system metrics with the TICK stack - Can also be used for gathering business metrics](https://www.digitalocean.com/community/tutorials/how-to-monitor-system-metrics-with-the-tick-stack-on-centos-7)
+* [How to setup & use Icinga2](https://www.digitalocean.com/community/tutorials/how-to-monitor-hosts-and-services-with-icinga-on-ubuntu-16-04)
+* [Using InfluxDB with Grafana](http://docs.grafana.org/features/datasources/influxdb/)
+* [Grafana Docs](http://docs.grafana.org/)
+* [InfluxDB Docs](http://docs.influxdata.com/influxdb/v1.6/)
 
 ## Processes & Culture
 
