@@ -33,6 +33,7 @@ Because we think it might help others as well we open-sourced it. If you know so
 * [Domain Driven Design](https://www.amazon.de/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/ref=sr_1_1?ie=UTF8&qid=1476887211&sr=8-1&keywords=domain+driven+design)
 * [Introduction to CQRS](http://www.codeproject.com/Articles/555855/Introduction-to-CQRS)
 * [CQRS and Event Sourcing](https://www.youtube.com/watch?v=JHGkaShoyNs)
+* [Your Code as a Crime Scene](https://pragprog.com/book/atcrime/your-code-as-a-crime-scene)
 
 ## PHP
 
