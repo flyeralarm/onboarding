@@ -7,6 +7,7 @@ Because we think it might help others as well we open-sourced it. If you know so
 
 * [How The Web Works](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
 * [HTTP on Wikipedia](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
+* [What happens when](https://github.com/alex/what-happens-when/blob/master/README.rst)
 * [An Introduction To HTTP Basics](https://www.ntu.edu.sg/home/ehchua/programming/webprogramming/HTTP_Basics.html)
 * [Choosing an HTTP Status Code — Stop Making It Hard](http://racksburg.com/choosing-an-http-status-code/)
 * [TCP/IP Protocol Fundamentals Explained with a Diagram](http://www.thegeekstuff.com/2011/11/tcp-ip-fundamentals)
