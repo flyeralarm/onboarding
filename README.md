@@ -35,6 +35,8 @@ Because we think it might help others as well we open-sourced it. If you know so
 * [Introduction to CQRS](http://www.codeproject.com/Articles/555855/Introduction-to-CQRS)
 * [CQRS and Event Sourcing](https://www.youtube.com/watch?v=JHGkaShoyNs)
 * [Your Code as a Crime Scene](https://pragprog.com/book/atcrime/your-code-as-a-crime-scene)
+* [Awesome API](https://github.com/Kikobeats/awesome-api)
+* [An introduction to APIs](https://restful.io/an-introduction-to-api-s-cee90581ca1b#.it7afo95l)
 
 ## PHP
 
@@ -47,6 +49,26 @@ Because we think it might help others as well we open-sourced it. If you know so
 * [PHP Logging Basics](https://www.loggly.com/ultimate-guide/php-logging-basics/)
 * [Awesome PHP (A curated list of amazingly awesome PHP libraries, resources and shiny things)](https://github.com/ziadoz/awesome-php)
 * [Efficient Data structures for PHP 7](https://medium.com/@rtheunissen/efficient-data-structures-for-php-7-9dda7af674cd)
+
+## JavaScript
+
+* [Learn JavaScript Essentials](https://medium.com/javascript-scene/learn-javascript-b631a4af11f2#.ggqhkheuz)
+* [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript)
+* [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
+* [JavaScript reference - MDN (Mozilla Developer Network)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* [Eloquent Javascript](http://eloquentjavascript.net/)
+* [Babel.js - ES6 today](https://babeljs.io/)
+* [Essential Javascript Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+
+## Kotlin
+
+* [How I fell in love with a programming language](https://m.signalvnoise.com/how-i-fell-in-love-with-a-programming-language/)
+* [Resources To Learn Kotlin The Right Way](https://superkotlin.com/resources-learn-kotlin/)
+* [Programming Kotlin by Venkat Subramaniam](https://pragprog.com/book/vskotlin/programming-kotlin)
+* [Awesome Kotlin](https://github.com/KotlinBy/awesome-kotlin)
+* [Mastering Kotlin standard functions: run, with, let, also and apply](https://medium.com/@elye.project/mastering-kotlin-standard-functions-run-with-let-also-and-apply-9cd334b0ef84)
+* [KotlinConf 2018 - Kotlin Coroutines in Practice by Roman Elizarov](https://www.youtube.com/watch?v=a3agLJQ6vt8)
+* [Ktor: Web backend framework for Kotlin. Easy to use, fun and asynchronous.](https://ktor.io)
 
 ## Tools
 
@@ -65,8 +87,10 @@ Because we think it might help others as well we open-sourced it. If you know so
 * [Basic UNIX commands](http://mally.stanford.edu/~sr/computing/basic-unix.html)
 * [Explain Shell - Let it explain you what's going on](http://explainshell.com/)
 * [Docker Docs](https://docs.docker.com/)
+* [Docker Swarms Introduction](https://docs.docker.com/get-started/part4/)
 * [How to write Anible Playbooks](https://www.digitalocean.com/community/tutorials/configuration-management-101-writing-ansible-playbooks)
 * [Ansible Docs](https://docs.ansible.com/)
+* [Artifactory User Guide](https://www.jfrog.com/confluence/pages/viewpage.action?pageId=46107472)
 
 ## Persistence
 
@@ -97,35 +121,11 @@ Because we think it might help others as well we open-sourced it. If you know so
 * [Twitter Bootstrap](http://getbootstrap.com)
 * [Don't make me think - Web Usability](https://www.amazon.de/Dont-make-think-Usability-intuitive/dp/3826697057/ref=sr_1_1?ie=UTF8&qid=1476888649&sr=8-1&keywords=dont+make+me+think)
 
-## JavaScript
-
-* [Learn JavaScript Essentials](https://medium.com/javascript-scene/learn-javascript-b631a4af11f2#.ggqhkheuz)
-* [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript)
-* [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
-* [JavaScript reference - MDN (Mozilla Developer Network)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-* [Eloquent Javascript](http://eloquentjavascript.net/)
-* [Babel.js - ES6 today](https://babeljs.io/)
-* [Essential Javascript Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
-
-## Kotlin
-
-* [How I fell in love with a programming language](https://m.signalvnoise.com/how-i-fell-in-love-with-a-programming-language/)
-* [Resources To Learn Kotlin The Right Way](https://superkotlin.com/resources-learn-kotlin/)
-* [Programming Kotlin by Venkat Subramaniam](https://pragprog.com/book/vskotlin/programming-kotlin)
-* [Awesome Kotlin](https://github.com/KotlinBy/awesome-kotlin)
-* [Mastering Kotlin standard functions: run, with, let, also and apply](https://medium.com/@elye.project/mastering-kotlin-standard-functions-run-with-let-also-and-apply-9cd334b0ef84)
-* [KotlinConf 2018 - Kotlin Coroutines in Practice by Roman Elizarov](https://www.youtube.com/watch?v=a3agLJQ6vt8)
-* [Ktor: Web backend framework for Kotlin. Easy to use, fun and asynchronous.](https://ktor.io)
-
-## Web Security
+## Information Security
 
 * [OWASP - Open Web Application Security Project](https://www.owasp.org/index.php/Main_Page)
 * [A Gentle Introduction to Application Security](https://paragonie.com/blog/2015/08/gentle-introduction-application-security)
-
-## API
-
-* [Awesome API](https://github.com/Kikobeats/awesome-api)
-* [An introduction to APIs](https://restful.io/an-introduction-to-api-s-cee90581ca1b#.it7afo95l)
+* [Juice Shop - A vulnerable web app to play around](https://github.com/bkimminich/juice-shop)
 
 ## Best Practices
 
