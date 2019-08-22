@@ -7,6 +7,7 @@ Because we think it might help others as well we open-sourced it. If you know so
 
 * [How The Web Works](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
 * [HTTP on Wikipedia](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
+* [What Happens When](https://github.com/alex/what-happens-when/blob/master/README.rst)
 * [An Introduction To HTTP Basics](https://www.ntu.edu.sg/home/ehchua/programming/webprogramming/HTTP_Basics.html)
 * [Choosing an HTTP Status Code — Stop Making It Hard](http://racksburg.com/choosing-an-http-status-code/)
 * [TCP/IP Protocol Fundamentals Explained with a Diagram](http://www.thegeekstuff.com/2011/11/tcp-ip-fundamentals)
@@ -105,6 +106,16 @@ Because we think it might help others as well we open-sourced it. If you know so
 * [Eloquent Javascript](http://eloquentjavascript.net/)
 * [Babel.js - ES6 today](https://babeljs.io/)
 * [Essential Javascript Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+
+## Kotlin
+
+* [How I fell in love with a programming language](https://m.signalvnoise.com/how-i-fell-in-love-with-a-programming-language/)
+* [Resources To Learn Kotlin The Right Way](https://superkotlin.com/resources-learn-kotlin/)
+* [Programming Kotlin by Venkat Subramaniam](https://pragprog.com/book/vskotlin/programming-kotlin)
+* [Awesome Kotlin](https://github.com/KotlinBy/awesome-kotlin)
+* [Mastering Kotlin standard functions: run, with, let, also and apply](https://medium.com/@elye.project/mastering-kotlin-standard-functions-run-with-let-also-and-apply-9cd334b0ef84)
+* [KotlinConf 2018 - Kotlin Coroutines in Practice by Roman Elizarov](https://www.youtube.com/watch?v=a3agLJQ6vt8)
+* [Ktor: Web backend framework for Kotlin. Easy to use, fun and asynchronous.](https://ktor.io)
 
 ## Web Security
 
