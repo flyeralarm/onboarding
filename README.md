@@ -107,6 +107,16 @@ Because we think it might help others as well we open-sourced it. If you know so
 * [Babel.js - ES6 today](https://babeljs.io/)
 * [Essential Javascript Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 
+## Kotlin
+
+* [How I fell in love with a programming language](https://m.signalvnoise.com/how-i-fell-in-love-with-a-programming-language/)
+* [Resources To Learn Kotlin The Right Way](https://superkotlin.com/resources-learn-kotlin/)
+* [Programming Kotlin by Venkat Subramaniam](https://pragprog.com/book/vskotlin/programming-kotlin)
+* [Awesome Kotlin](https://github.com/KotlinBy/awesome-kotlin)
+* [Mastering Kotlin standard functions: run, with, let, also and apply](https://medium.com/@elye.project/mastering-kotlin-standard-functions-run-with-let-also-and-apply-9cd334b0ef84)
+* [KotlinConf 2018 - Kotlin Coroutines in Practice by Roman Elizarov](https://www.youtube.com/watch?v=a3agLJQ6vt8)
+* [Ktor: Web backend framework for Kotlin. Easy to use, fun and asynchronous.](https://ktor.io)
+
 ## Web Security
 
 * [OWASP - Open Web Application Security Project](https://www.owasp.org/index.php/Main_Page)
