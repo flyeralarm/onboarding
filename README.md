@@ -61,21 +61,23 @@ Because we think it might help others as well we open-sourced it. If you know so
 * [KotlinConf 2018 - Kotlin Coroutines in Practice by Roman Elizarov](https://www.youtube.com/watch?v=a3agLJQ6vt8)
 * [Ktor: Web backend framework for Kotlin. Easy to use, fun and asynchronous.](https://ktor.io)
 
-## JavaScript
+## JavaScript & Frontend
 
 * [JS for Cats](http://jsforcats.com/)
-* [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript)
+* [JavaScript for impatient programmers](https://exploringjs.com/impatient-js)
 * [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
 * [Eloquent Javascript](http://eloquentjavascript.net/)
 * [Essential Javascript Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+* [MDN - Mozilla Developer Network](https://developer.mozilla.org/de/)
 * [JavaScript reference - MDN (Mozilla Developer Network)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* [Netflix UI Engineers Youtube Channel](https://www.youtube.com/channel/UCGGRRqAjPm6sL3-WGBDnKJA)
+* [Don't make me think - Web Usability](https://www.amazon.de/Dont-make-think-Usability-intuitive/dp/3826697057/ref=sr_1_1?ie=UTF8&qid=1476888649&sr=8-1&keywords=dont+make+me+think)
 
 ## Frontend & UI/UX
 
-* [MDN - Mozilla Developer Network](https://developer.mozilla.org/de/)
+
 * [Talks To Help You Become A Better Front-End Engineer](https://www.smashingmagazine.com/2012/12/talks-to-help-you-become-a-better-front-end-engineer-in-2013/)
-* [Netflix UI Engineers Youtube Channel](https://www.youtube.com/channel/UCGGRRqAjPm6sL3-WGBDnKJA)
-* [Don't make me think - Web Usability](https://www.amazon.de/Dont-make-think-Usability-intuitive/dp/3826697057/ref=sr_1_1?ie=UTF8&qid=1476888649&sr=8-1&keywords=dont+make+me+think)
+
 
 ## Tools
 
