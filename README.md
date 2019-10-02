@@ -69,7 +69,7 @@ Because we think it might help others as well we open-sourced it. If you know so
 * [Eloquent Javascript](http://eloquentjavascript.net/)
 * [Essential Javascript Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 * [MDN - Mozilla Developer Network](https://developer.mozilla.org/de/)
-* [JavaScript reference - MDN (Mozilla Developer Network)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* [CSS-Tricks](https://css-tricks.com/)
 * [Netflix UI Engineers Youtube Channel](https://www.youtube.com/channel/UCGGRRqAjPm6sL3-WGBDnKJA)
 * [Don't make me think - Web Usability](https://www.amazon.de/Dont-make-think-Usability-intuitive/dp/3826697057/ref=sr_1_1?ie=UTF8&qid=1476888649&sr=8-1&keywords=dont+make+me+think)
 
