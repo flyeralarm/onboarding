@@ -29,6 +29,7 @@ Because we think it might help others as well we open-sourced it. If you know so
 * [DesignPatternsPHP](https://github.com/domnikl/DesignPatternsPHP)
 * [All the cool kids...](https://www.youtube.com/watch?v=EDXgNA_pXX0)
 * [18 must-watch PHP architecture talks](https://www.reddit.com/r/PHP/comments/3kklt5/18_mustwatch_php_architecture_talks_13hrs/)
+* [Object Design Style Guide](https://www.manning.com/books/object-design-style-guide)
 * [Practical Object-Oriented Design in Ruby](https://www.amazon.de/Practical-Object-Oriented-Design-Ruby-Addison-Wesley/dp/0321721330/ref=sr_1_1?s=books-intl-de&ie=UTF8&qid=1476881380&sr=1-1&keywords=practical+object-oriented+design+in+ruby)
 * [Patterns of Enterprise Application Architecture](https://www.amazon.de/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420/ref=sr_1_1?ie=UTF8&qid=1476887236&sr=8-1&keywords=patterns+of+enterprise+application+architecture)
 * [Domain Driven Design](https://www.amazon.de/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/ref=sr_1_1?ie=UTF8&qid=1476887211&sr=8-1&keywords=domain+driven+design)
