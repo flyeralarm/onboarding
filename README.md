@@ -51,15 +51,6 @@ Because we think it might help others as well we open-sourced it. If you know so
 * [Awesome PHP (A curated list of amazingly awesome PHP libraries, resources and shiny things)](https://github.com/ziadoz/awesome-php)
 * [Modern PHP](http://shop.oreilly.com/product/0636920033868.do)
 
-## JavaScript
-
-* [JS for Cats](http://jsforcats.com/)
-* [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript)
-* [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
-* [Eloquent Javascript](http://eloquentjavascript.net/)
-* [Essential Javascript Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
-* [JavaScript reference - MDN (Mozilla Developer Network)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
 ## Kotlin
 
 * [How I fell in love with a programming language](https://m.signalvnoise.com/how-i-fell-in-love-with-a-programming-language/)
@@ -69,6 +60,22 @@ Because we think it might help others as well we open-sourced it. If you know so
 * [Mastering Kotlin standard functions: run, with, let, also and apply](https://medium.com/@elye.project/mastering-kotlin-standard-functions-run-with-let-also-and-apply-9cd334b0ef84)
 * [KotlinConf 2018 - Kotlin Coroutines in Practice by Roman Elizarov](https://www.youtube.com/watch?v=a3agLJQ6vt8)
 * [Ktor: Web backend framework for Kotlin. Easy to use, fun and asynchronous.](https://ktor.io)
+
+## JavaScript
+
+* [JS for Cats](http://jsforcats.com/)
+* [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript)
+* [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
+* [Eloquent Javascript](http://eloquentjavascript.net/)
+* [Essential Javascript Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+* [JavaScript reference - MDN (Mozilla Developer Network)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+## Frontend & UI/UX
+
+* [MDN - Mozilla Developer Network](https://developer.mozilla.org/de/)
+* [Talks To Help You Become A Better Front-End Engineer](https://www.smashingmagazine.com/2012/12/talks-to-help-you-become-a-better-front-end-engineer-in-2013/)
+* [Netflix UI Engineers Youtube Channel](https://www.youtube.com/channel/UCGGRRqAjPm6sL3-WGBDnKJA)
+* [Don't make me think - Web Usability](https://www.amazon.de/Dont-make-think-Usability-intuitive/dp/3826697057/ref=sr_1_1?ie=UTF8&qid=1476888649&sr=8-1&keywords=dont+make+me+think)
 
 ## Tools
 
@@ -115,13 +122,6 @@ Because we think it might help others as well we open-sourced it. If you know so
 * [Agile Retrospectives](https://pragprog.com/book/dlret/agile-retrospectives)
 * [The Phoenix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592)
 * [Team Geek - A Software Developer's Guide to Working Well with Others](https://www.amazon.com/Team-Geek-Software-Developers-Working/dp/1449302440/)
-
-## Frontend & UI/UX
-
-* [MDN - Mozilla Developer Network](https://developer.mozilla.org/de/)
-* [Talks To Help You Become A Better Front-End Engineer](https://www.smashingmagazine.com/2012/12/talks-to-help-you-become-a-better-front-end-engineer-in-2013/)
-* [Netflix UI Engineers Youtube Channel](https://www.youtube.com/channel/UCGGRRqAjPm6sL3-WGBDnKJA)
-* [Don't make me think - Web Usability](https://www.amazon.de/Dont-make-think-Usability-intuitive/dp/3826697057/ref=sr_1_1?ie=UTF8&qid=1476888649&sr=8-1&keywords=dont+make+me+think)
 
 ## Information Security
 
