@@ -49,17 +49,7 @@ Because we think it might help others as well we open-sourced it. If you know so
 * [PHP Library Discovery](https://www.youtube.com/watch?v=3kD9t0GVGGY&feature=youtu.be)
 * [PHP Logging Basics](https://www.loggly.com/ultimate-guide/php-logging-basics/)
 * [Awesome PHP (A curated list of amazingly awesome PHP libraries, resources and shiny things)](https://github.com/ziadoz/awesome-php)
-* [Efficient Data structures for PHP 7](https://medium.com/@rtheunissen/efficient-data-structures-for-php-7-9dda7af674cd)
-
-## JavaScript
-
-* [Learn JavaScript Essentials](https://medium.com/javascript-scene/learn-javascript-b631a4af11f2#.ggqhkheuz)
-* [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript)
-* [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
-* [JavaScript reference - MDN (Mozilla Developer Network)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-* [Eloquent Javascript](http://eloquentjavascript.net/)
-* [Babel.js - ES6 today](https://babeljs.io/)
-* [Essential Javascript Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+* [Modern PHP](http://shop.oreilly.com/product/0636920033868.do)
 
 ## Kotlin
 
@@ -71,6 +61,18 @@ Because we think it might help others as well we open-sourced it. If you know so
 * [KotlinConf 2018 - Kotlin Coroutines in Practice by Roman Elizarov](https://www.youtube.com/watch?v=a3agLJQ6vt8)
 * [Ktor: Web backend framework for Kotlin. Easy to use, fun and asynchronous.](https://ktor.io)
 
+## JavaScript & Frontend
+
+* [JS for Cats](http://jsforcats.com/)
+* [JavaScript for impatient programmers](https://exploringjs.com/impatient-js)
+* [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
+* [Eloquent Javascript](http://eloquentjavascript.net/)
+* [Essential Javascript Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+* [MDN - Mozilla Developer Network](https://developer.mozilla.org/de/)
+* [CSS-Tricks](https://css-tricks.com/)
+* [Netflix UI Engineers Youtube Channel](https://www.youtube.com/channel/UCGGRRqAjPm6sL3-WGBDnKJA)
+* [Don't make me think - Web Usability](https://www.amazon.de/Dont-make-think-Usability-intuitive/dp/3826697057/ref=sr_1_1?ie=UTF8&qid=1476888649&sr=8-1&keywords=dont+make+me+think)
+
 ## Tools
 
 * [git](https://git-scm.com/)
@@ -78,6 +80,8 @@ Because we think it might help others as well we open-sourced it. If you know so
 * [Interactive git Cheatsheet](http://ndpsoftware.com/git-cheatsheet.html)
 * [Composer - Dependency Manager For PHP](https://getcomposer.org/)
 * [Packagist - The PHP Package Repository](https://packagist.org/)
+* [Gradle Guide](https://gradle.org/guides/)
+* [PHPStan](https://github.com/phpstan/phpstan)
 * [PHPUnit](https://phpunit.de/)
 * [Introduction to PHP Unit](https://jtreminio.com/2013/03/unit-testing-tutorial-introduction-to-phpunit/)
 * [Twelve Benefits of Writing Unit Tests First](http://sd.jtimothyking.com/2006/07/11/twelve-benefits-of-writing-unit-tests-first/)
@@ -87,9 +91,10 @@ Because we think it might help others as well we open-sourced it. If you know so
 
 * [Basic UNIX commands](http://mally.stanford.edu/~sr/computing/basic-unix.html)
 * [Explain Shell - Let it explain you what's going on](http://explainshell.com/)
+* [Effective DevOps](http://shop.oreilly.com/product/0636920039846.do)
 * [Docker Docs](https://docs.docker.com/)
 * [Docker Swarms Introduction](https://docs.docker.com/get-started/part4/)
-* [How to write Anible Playbooks](https://www.digitalocean.com/community/tutorials/configuration-management-101-writing-ansible-playbooks)
+* [How to write Ansible Playbooks](https://www.digitalocean.com/community/tutorials/configuration-management-101-writing-ansible-playbooks)
 * [Ansible Docs](https://docs.ansible.com/)
 * [Artifactory User Guide](https://www.jfrog.com/confluence/pages/viewpage.action?pageId=46107472)
 
@@ -98,7 +103,6 @@ Because we think it might help others as well we open-sourced it. If you know so
 * [SQL Performance Explained - Short and useful book about SQL performance for developers](https://www.amazon.de/SQL-Performance-Explained-Entwickler-SQL-Performance/dp/3950307818)
 * [Use the index, Luke - a guide to database performance for developers](http://use-the-index-luke.com/)
 * [The Little Redis Book](http://openmymind.net/redis.pdf)
-* [Building an Event Storage](https://cqrs.wordpress.com/documents/building-event-storage/)
 
 ## Monitoring & Alerting
 
@@ -112,15 +116,8 @@ Because we think it might help others as well we open-sourced it. If you know so
 
 * [The Agile Manifesto](http://agilemanifesto.org/)
 * [Agile Retrospectives](https://pragprog.com/book/dlret/agile-retrospectives)
-* [Team Geek - A Software Developer's Guide to Working Well with Others](https://www.amazon.com/Team-Geek-Software-Developers-Working/dp/1449302440/ref=sr_1_1?ie=UTF8&qid=1477633184&sr=8-1&keywords=team+geek)
-
-## Frontend & UI/UX
-
-* [MDN - Mozilla Developer Network](https://developer.mozilla.org/de/)
-* [Talks To Help You Become A Better Front-End Engineer](https://www.smashingmagazine.com/2012/12/talks-to-help-you-become-a-better-front-end-engineer-in-2013/)
-* [Netflix UI Engineers Youtube Channel](https://www.youtube.com/channel/UCGGRRqAjPm6sL3-WGBDnKJA)
-* [Twitter Bootstrap](http://getbootstrap.com)
-* [Don't make me think - Web Usability](https://www.amazon.de/Dont-make-think-Usability-intuitive/dp/3826697057/ref=sr_1_1?ie=UTF8&qid=1476888649&sr=8-1&keywords=dont+make+me+think)
+* [The Phoenix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592)
+* [Team Geek - A Software Developer's Guide to Working Well with Others](https://www.amazon.com/Team-Geek-Software-Developers-Working/dp/1449302440/)
 
 ## Information Security
 
@@ -136,7 +133,6 @@ Because we think it might help others as well we open-sourced it. If you know so
 * [Refactoring: Improving the Design of Existing Code](https://www.amazon.com/exec/obidos/ASIN/0201485672/codihorr-20)
 * [The full stackoverflow developer](https://www.christianheilmann.com/2015/07/17/the-full-stackoverflow-developer/)
 * [Measure anything, measure everything](https://codeascraft.com/2011/02/15/measure-anything-measure-everything/)
-* [Papers from the computer science community to read and discuss](https://github.com/papers-we-love/papers-we-love)
 * Go to a local user group
 * Read open-source code on [GitHub](https://www.github.com)
 * Never stop building stuff
