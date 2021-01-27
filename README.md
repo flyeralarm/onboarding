@@ -112,6 +112,12 @@ Because we think it might help others as well we open-sourced it. If you know so
 * [Grafana Docs](http://docs.grafana.org/)
 * [InfluxDB Docs](http://docs.influxdata.com/influxdb/v1.6/)
 
+## Apache Kafka
+
+* [Kafka as a Platform: the Ecosystem from the Ground Up](https://www.youtube.com/watch?v=WpfJ86_DYfY)
+* [Apache Kafka in a Nutshell](https://medium.com/swlh/apache-kafka-in-a-nutshell-5782b01d9ffb)
+* [Why Avro for Kafka Data?](https://www.confluent.de/blog/avro-kafka-data/)
+
 ## Processes & Culture
 
 * [The Agile Manifesto](http://agilemanifesto.org/)
