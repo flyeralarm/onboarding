@@ -8,6 +8,7 @@ Because we think it might help others as well we open-sourced it. If you know so
 * [How The Web Works](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
 * [HTTP on Wikipedia](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
 * [What Happens When](https://github.com/alex/what-happens-when/blob/master/README.rst)
+* [What to learn next](https://roadmap.sh/)
 * [An Introduction To HTTP Basics](https://www.ntu.edu.sg/home/ehchua/programming/webprogramming/HTTP_Basics.html)
 * [Choosing an HTTP Status Code — Stop Making It Hard](https://www.codetinkerer.com/2015/12/04/choosing-an-http-status-code.html)
 * [TCP/IP Protocol Fundamentals Explained with a Diagram](http://www.thegeekstuff.com/2011/11/tcp-ip-fundamentals)
@@ -38,6 +39,7 @@ Because we think it might help others as well we open-sourced it. If you know so
 * [Your Code as a Crime Scene](https://pragprog.com/book/atcrime/your-code-as-a-crime-scene)
 * [Awesome API](https://github.com/Kikobeats/awesome-api)
 * [An introduction to APIs](https://zapier.com/learn/apis/)
+* [Architectural Katas](http://nealford.com/katas/)
 
 ## PHP
 
