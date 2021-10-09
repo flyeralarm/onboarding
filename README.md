@@ -96,6 +96,8 @@ Because we think it might help others as well we open-sourced it. If you know so
 * [Effective DevOps](http://shop.oreilly.com/product/0636920039846.do)
 * [Docker Docs](https://docs.docker.com/)
 * [Docker Swarms Introduction](https://docs.docker.com/get-started/part4/)
+* [What is Kubernetes](https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/)
+* [Request routing with Traefik](https://doc.traefik.io/traefik/getting-started/concepts/)
 * [How to write Ansible Playbooks](https://www.digitalocean.com/community/tutorials/configuration-management-101-writing-ansible-playbooks)
 * [Ansible Docs](https://docs.ansible.com/)
 * [Artifactory User Guide](https://www.jfrog.com/confluence/pages/viewpage.action?pageId=46107472)
