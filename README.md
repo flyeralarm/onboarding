@@ -96,6 +96,8 @@ Because we think it might help others as well we open-sourced it. If you know so
 * [Effective DevOps](http://shop.oreilly.com/product/0636920039846.do)
 * [Docker Docs](https://docs.docker.com/)
 * [Docker Swarms Introduction](https://docs.docker.com/get-started/part4/)
+* [What is Kubernetes](https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/)
+* [Request routing with Traefik](https://doc.traefik.io/traefik/getting-started/concepts/)
 * [How to write Ansible Playbooks](https://www.digitalocean.com/community/tutorials/configuration-management-101-writing-ansible-playbooks)
 * [Ansible Docs](https://docs.ansible.com/)
 * [Artifactory User Guide](https://www.jfrog.com/confluence/pages/viewpage.action?pageId=46107472)
@@ -119,6 +121,7 @@ Because we think it might help others as well we open-sourced it. If you know so
 * [Kafka as a Platform: the Ecosystem from the Ground Up](https://www.youtube.com/watch?v=WpfJ86_DYfY)
 * [Apache Kafka in a Nutshell](https://medium.com/swlh/apache-kafka-in-a-nutshell-5782b01d9ffb)
 * [Why Avro for Kafka Data?](https://www.confluent.de/blog/avro-kafka-data/)
+* [Deal with Failure in an Event-Driven System](https://www.confluent.io/blog/using-kafka-merge-purge-to-simplify-kafka-failures/)
 
 ## Processes & Culture
 
