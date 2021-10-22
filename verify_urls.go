@@ -32,7 +32,7 @@ func main() {
 		resp, err := httpClient.Get(url)
 		if err != nil || resp.StatusCode != 200 {
 			brokenUrls = append(brokenUrls, url)
-			fmt.Println("FAILED - " err)
+			fmt.Println("FAILED - ", err)
 		} else {
 			fmt.Println("OK")
 		}
