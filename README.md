@@ -15,7 +15,6 @@ Because we think it might help others as well we open-sourced it. If you know so
 * [Google Developer Training For The Web](https://developers.google.com/training/web/)
 * [Visualising data structures and algorithms through animation](https://visualgo.net/)
 * [Algorithms, Data Structures, and Design Patterns for Self-Taught Developers](https://antjanus.com/blog/web-development-tutorials/learn-the-unlearned-algorithms-data-structures-and-design-patterns/)
-* [A Gentle Introduction to Algorithms for Web Developers](http://giocc.com/a-gentle-introduction-to-algorithms-for-web-developers.html)
 * [HTTP: The Protocol Every Web Developer Must Know](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
 * [An Introduction to Networking Terminology, Interfaces, and Protocols](https://www.digitalocean.com/community/tutorials/an-introduction-to-networking-terminology-interfaces-and-protocols)
 * [How Browser Caching Works](https://thesocietea.org/2016/05/how-browser-caching-works/)
@@ -55,7 +54,6 @@ Because we think it might help others as well we open-sourced it. If you know so
 
 ## Kotlin
 
-* [How I fell in love with a programming language](https://m.signalvnoise.com/how-i-fell-in-love-with-a-programming-language/)
 * [Resources To Learn Kotlin The Right Way](https://superkotlin.com/resources-learn-kotlin/)
 * [Programming Kotlin by Venkat Subramaniam](https://pragprog.com/book/vskotlin/programming-kotlin)
 * [Awesome Kotlin](https://github.com/KotlinBy/awesome-kotlin)
@@ -96,6 +94,8 @@ Because we think it might help others as well we open-sourced it. If you know so
 * [Effective DevOps](http://shop.oreilly.com/product/0636920039846.do)
 * [Docker Docs](https://docs.docker.com/)
 * [Docker Swarms Introduction](https://docs.docker.com/get-started/part4/)
+* [What is Kubernetes](https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/)
+* [Request routing with Traefik](https://doc.traefik.io/traefik/getting-started/concepts/)
 * [How to write Ansible Playbooks](https://www.digitalocean.com/community/tutorials/configuration-management-101-writing-ansible-playbooks)
 * [Ansible Docs](https://docs.ansible.com/)
 * [Artifactory User Guide](https://www.jfrog.com/confluence/pages/viewpage.action?pageId=46107472)
@@ -119,6 +119,7 @@ Because we think it might help others as well we open-sourced it. If you know so
 * [Kafka as a Platform: the Ecosystem from the Ground Up](https://www.youtube.com/watch?v=WpfJ86_DYfY)
 * [Apache Kafka in a Nutshell](https://medium.com/swlh/apache-kafka-in-a-nutshell-5782b01d9ffb)
 * [Why Avro for Kafka Data?](https://www.confluent.de/blog/avro-kafka-data/)
+* [Deal with Failure in an Event-Driven System](https://www.confluent.io/blog/using-kafka-merge-purge-to-simplify-kafka-failures/)
 
 ## Processes & Culture
 
@@ -136,7 +137,7 @@ Because we think it might help others as well we open-sourced it. If you know so
 ## Best Practices
 
 * [The Best Code is No Code At All](https://blog.codinghorror.com/the-best-code-is-no-code-at-all/)
-* [The Pragmatic Programmer](https://pragprog.com/book/tpp/the-pragmatic-programmer)
+* [The Pragmatic Programmer](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/)
 * [Simple Made Easy](https://www.youtube.com/watch?v=rI8tNMsozo0)
 * [Refactoring: Improving the Design of Existing Code](https://www.amazon.com/exec/obidos/ASIN/0201485672/codihorr-20)
 * [The full stackoverflow developer](https://www.christianheilmann.com/2015/07/17/the-full-stackoverflow-developer/)
