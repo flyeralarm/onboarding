@@ -140,7 +140,9 @@ Because we think it might help others as well we open-sourced it. If you know so
 
 * [The Best Code is No Code At All](https://blog.codinghorror.com/the-best-code-is-no-code-at-all/)
 * [The Pragmatic Programmer](https://pragprog.com/book/tpp/the-pragmatic-programmer)
+* [The Clean Coder](https://www.oreilly.com/library/view/the-clean-coder/9780132542913/)
 * [Simple Made Easy](https://www.youtube.com/watch?v=rI8tNMsozo0)
+* [A Philosophy of Software Design](https://www.youtube.com/watch?v=bmSAYlu0NcY)
 * [Refactoring: Improving the Design of Existing Code](https://www.amazon.com/exec/obidos/ASIN/0201485672/codihorr-20)
 * [The full stackoverflow developer](https://www.christianheilmann.com/2015/07/17/the-full-stackoverflow-developer/)
 * [Measure anything, measure everything](https://codeascraft.com/2011/02/15/measure-anything-measure-everything/)
