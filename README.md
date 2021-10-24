@@ -15,7 +15,6 @@ Because we think it might help others as well we open-sourced it. If you know so
 * [Google Developer Training For The Web](https://developers.google.com/training/web/)
 * [Visualising data structures and algorithms through animation](https://visualgo.net/)
 * [Algorithms, Data Structures, and Design Patterns for Self-Taught Developers](https://antjanus.com/blog/web-development-tutorials/learn-the-unlearned-algorithms-data-structures-and-design-patterns/)
-* [A Gentle Introduction to Algorithms for Web Developers](http://giocc.com/a-gentle-introduction-to-algorithms-for-web-developers.html)
 * [HTTP: The Protocol Every Web Developer Must Know](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
 * [An Introduction to Networking Terminology, Interfaces, and Protocols](https://www.digitalocean.com/community/tutorials/an-introduction-to-networking-terminology-interfaces-and-protocols)
 * [How Browser Caching Works](https://thesocietea.org/2016/05/how-browser-caching-works/)
@@ -55,7 +54,6 @@ Because we think it might help others as well we open-sourced it. If you know so
 
 ## Kotlin
 
-* [How I fell in love with a programming language](https://m.signalvnoise.com/how-i-fell-in-love-with-a-programming-language/)
 * [Resources To Learn Kotlin The Right Way](https://superkotlin.com/resources-learn-kotlin/)
 * [Programming Kotlin by Venkat Subramaniam](https://pragprog.com/book/vskotlin/programming-kotlin)
 * [Awesome Kotlin](https://github.com/KotlinBy/awesome-kotlin)
@@ -106,7 +104,7 @@ Because we think it might help others as well we open-sourced it. If you know so
 
 * [SQL Performance Explained - Short and useful book about SQL performance for developers](https://www.amazon.de/SQL-Performance-Explained-Entwickler-SQL-Performance/dp/3950307818)
 * [Use the index, Luke - a guide to database performance for developers](http://use-the-index-luke.com/)
-* [The Little Redis Book](http://openmymind.net/redis.pdf)
+* [The Little Redis Book](https://github.com/karlseguin/the-little-redis-book)
 
 ## Monitoring & Alerting
 
@@ -139,7 +137,7 @@ Because we think it might help others as well we open-sourced it. If you know so
 ## Best Practices
 
 * [The Best Code is No Code At All](https://blog.codinghorror.com/the-best-code-is-no-code-at-all/)
-* [The Pragmatic Programmer](https://pragprog.com/book/tpp/the-pragmatic-programmer)
+* [The Pragmatic Programmer](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/)
 * [The Clean Coder](https://www.oreilly.com/library/view/the-clean-coder/9780132542913/)
 * [Simple Made Easy](https://www.youtube.com/watch?v=rI8tNMsozo0)
 * [A Philosophy of Software Design](https://www.youtube.com/watch?v=bmSAYlu0NcY)
