@@ -51,7 +51,6 @@ Because we think it might help others as well we open-sourced it. If you know so
 * [PHP Library Discovery](https://www.youtube.com/watch?v=3kD9t0GVGGY&feature=youtu.be)
 * [PHP Logging Basics](https://www.loggly.com/ultimate-guide/php-logging-basics/)
 * [Awesome PHP (A curated list of amazingly awesome PHP libraries, resources and shiny things)](https://github.com/ziadoz/awesome-php)
-* [Modern PHP](http://shop.oreilly.com/product/0636920033868.do)
 * [Reference - What does this error mean in PHP?](https://stackoverflow.com/questions/12769982/reference-what-does-this-error-mean-in-php)
 
 ## Kotlin
