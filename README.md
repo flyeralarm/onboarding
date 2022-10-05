@@ -9,12 +9,12 @@ Because we think it might help others as well we open-sourced it. If you know so
 * [HTTP on Wikipedia](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
 * [What Happens When](https://github.com/alex/what-happens-when/blob/master/README.rst)
 * [What to learn next](https://roadmap.sh/)
-* [An Introduction To HTTP Basics](https://www.ntu.edu.sg/home/ehchua/programming/webprogramming/HTTP_Basics.html)
+* [An Introduction To HTTP Basics](https://personal.ntu.edu.sg/ehchua/programming/webprogramming/HTTP_Basics.html)
 * [Choosing an HTTP Status Code — Stop Making It Hard](https://www.codetinkerer.com/2015/12/04/choosing-an-http-status-code.html)
 * [TCP/IP Protocol Fundamentals Explained with a Diagram](http://www.thegeekstuff.com/2011/11/tcp-ip-fundamentals)
 * [Google Developer Training For The Web](https://developers.google.com/training/web/)
 * [Visualising data structures and algorithms through animation](https://visualgo.net/)
-* [Algorithms, Data Structures, and Design Patterns for Self-Taught Developers](https://antjanus.com/blog/web-development-tutorials/learn-the-unlearned-algorithms-data-structures-and-design-patterns/)
+* [Algorithms, Data Structures, and Design Patterns for Self-Taught Developers](https://web.archive.org/web/20210625134101/https://antjanus.com/blog/web-development-tutorials/learn-the-unlearned-algorithms-data-structures-and-design-patterns/)
 * [HTTP: The Protocol Every Web Developer Must Know](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
 * [An Introduction to Networking Terminology, Interfaces, and Protocols](https://www.digitalocean.com/community/tutorials/an-introduction-to-networking-terminology-interfaces-and-protocols)
 * [How Browser Caching Works](https://thesocietea.org/2016/05/how-browser-caching-works/)
@@ -35,7 +35,7 @@ Because we think it might help others as well we open-sourced it. If you know so
 * [Domain Driven Design](https://www.amazon.de/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/ref=sr_1_1?ie=UTF8&qid=1476887211&sr=8-1&keywords=domain+driven+design)
 * [Introduction to CQRS](http://www.codeproject.com/Articles/555855/Introduction-to-CQRS)
 * [CQRS and Event Sourcing](https://www.youtube.com/watch?v=JHGkaShoyNs)
-* [Your Code as a Crime Scene](https://pragprog.com/book/atcrime/your-code-as-a-crime-scene)
+* [Your Code as a Crime Scene](https://pragprog.com/titles/atcrime/your-code-as-a-crime-scene/)
 * [Awesome API](https://github.com/Kikobeats/awesome-api)
 * [An introduction to APIs](https://zapier.com/learn/apis/)
 * [Architectural Katas](http://nealford.com/katas/)
@@ -55,7 +55,7 @@ Because we think it might help others as well we open-sourced it. If you know so
 ## Kotlin
 
 * [Resources To Learn Kotlin The Right Way](https://superkotlin.com/resources-learn-kotlin/)
-* [Programming Kotlin by Venkat Subramaniam](https://pragprog.com/book/vskotlin/programming-kotlin)
+* [Programming Kotlin by Venkat Subramaniam](https://pragprog.com/titles/vskotlin/programming-kotlin/)
 * [Awesome Kotlin](https://github.com/KotlinBy/awesome-kotlin)
 * [Mastering Kotlin standard functions: run, with, let, also and apply](https://medium.com/@elye.project/mastering-kotlin-standard-functions-run-with-let-also-and-apply-9cd334b0ef84)
 * [KotlinConf 2018 - Kotlin Coroutines in Practice by Roman Elizarov](https://www.youtube.com/watch?v=a3agLJQ6vt8)
@@ -124,7 +124,7 @@ Because we think it might help others as well we open-sourced it. If you know so
 ## Processes & Culture
 
 * [The Agile Manifesto](http://agilemanifesto.org/)
-* [Agile Retrospectives](https://pragprog.com/book/dlret/agile-retrospectives)
+* [Agile Retrospectives](https://pragprog.com/titles/dlret/agile-retrospectives/)
 * [The Phoenix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592)
 * [Team Geek - A Software Developer's Guide to Working Well with Others](https://www.amazon.com/Team-Geek-Software-Developers-Working/dp/1449302440/)
 
