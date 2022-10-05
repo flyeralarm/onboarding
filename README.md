@@ -27,6 +27,7 @@ Because we think it might help others as well we open-sourced it. If you know so
 
 * [Clean Code](https://www.amazon.com/gp/product/0132350882/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0132350882&linkCode=as2&tag=sdrl-20)
 * [DesignPatternsPHP](https://github.com/DesignPatternsPHP/DesignPatternsPHP)
+* [What's a design pattern?](https://refactoring.guru/design-patterns/what-is-pattern)
 * [All the cool kids...](https://www.youtube.com/watch?v=EDXgNA_pXX0)
 * [18 must-watch PHP architecture talks](https://www.reddit.com/r/PHP/comments/3kklt5/18_mustwatch_php_architecture_talks_13hrs/)
 * [Object Design Style Guide](https://www.manning.com/books/object-design-style-guide)
