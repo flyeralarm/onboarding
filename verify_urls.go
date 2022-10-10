@@ -42,6 +42,7 @@ func main() {
         errormessage := err
         if errormessage == nil {
             errormessage = errors.New(http.StatusText(resp.StatusCode))
+            resp.Body.Close()
         }
 
         if err != nil || resp.StatusCode != 200 {
