@@ -1,8 +1,9 @@
 package main
 
 import (
+    "crypto/tls"
+    "errors"
     "fmt"
-    "io/ioutil"
     "net/http"
     "os"
     "regexp"
@@ -12,7 +13,7 @@ import (
 func main() {
     fmt.Println("Verifying URLs..")
 
-    readmeFile, err := ioutil.ReadFile("README.md")
+    readmeFile, err := os.ReadFile("README.md")
     if err != nil {
         fmt.Println("Could not find README!")
         os.Exit(1)
@@ -21,7 +22,12 @@ func main() {
     fileContent := string(readmeFile)
     urlElementRegex := regexp.MustCompile(`(?m)\[.+?]\(((http|https)://.+?)\)`)
 
-    httpClient := http.Client{Timeout: 20 * time.Second}
+    httpClient := http.Client{
+        Timeout: 20 * time.Second,
+        Transport: &http.Transport{
+            TLSClientConfig: &tls.Config{},
+        },
+    }
 
     var brokenUrls []string
     for _, urlElement := range urlElementRegex.FindAllStringSubmatch(fileContent, -1) {
@@ -29,10 +35,19 @@ func main() {
 
         fmt.Printf("Checking %s: ", url)
 
-        resp, err := httpClient.Get(url)
+        req, err := http.NewRequest("GET", url, nil)
+        req.Header.Add("User-Agent", "URL status code verification for the Flyeralarm onboarding resources; https://github.com/flyeralarm/onboarding")
+        resp, err := httpClient.Do(req)
+
+        errormessage := err
+        if errormessage == nil {
+            errormessage = errors.New(http.StatusText(resp.StatusCode))
+            resp.Body.Close()
+        }
+
         if err != nil || resp.StatusCode != 200 {
             brokenUrls = append(brokenUrls, url)
-            fmt.Println("FAILED - ", err)
+            fmt.Println("FAILED - ", errormessage)
         } else {
             fmt.Println("OK")
         }
