@@ -21,7 +21,6 @@ Because we think it might help others as well we open-sourced it. If you know so
 * [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets](http://www.joelonsoftware.com/articles/Unicode.html)
 * [What Every Programmer Should Know About Memory](https://www.akkadia.org/drepper/cpumemory.pdf)
 * [What Every Developer Should Know About Time](https://unix4lyfe.org/time/?v=1)
-* [A story about an angry carrot and a floating point fairy](http://blog.ruslans.com/2014/12/a-story-about-angry-carrot-and-floating.html)
 
 ## Design And Architecture Of Software
 
@@ -85,7 +84,6 @@ Because we think it might help others as well we open-sourced it. If you know so
 * [PHPStan](https://github.com/phpstan/phpstan)
 * [PHPUnit](https://phpunit.de/)
 * [Introduction to PHP Unit](https://jtreminio.com/2013/03/unit-testing-tutorial-introduction-to-phpunit/)
-* [Twelve Benefits of Writing Unit Tests First](http://sd.jtimothyking.com/2006/07/11/twelve-benefits-of-writing-unit-tests-first/)
 * [A Beginner's Guide to npm](https://www.sitepoint.com/beginners-guide-node-package-manager/)
 
 ## Environment
@@ -151,4 +149,4 @@ Because we think it might help others as well we open-sourced it. If you know so
 
 
 
-On a side note: [We are searching for talented people to join our various teams of developers in multiple locations](https://karriere.flyeralarm.com/jobs)
+On a side note: [We are searching for talented people to join our various teams of developers in multiple locations](https://www.flyeralarm.com/karriere/de/alle-jobs)
