@@ -17,6 +17,7 @@ jobs:
       - name: Prepare Go environment
         uses: actions/setup-go@v4
         with:
-          go-version: '1.17.2'
+          go-version: 'stable'
+          cache: false
       - name: Verify URLs in README.md
         run: go run verify_urls.go
