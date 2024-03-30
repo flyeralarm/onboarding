@@ -34,6 +34,7 @@ Because we think it might help others as well we open-sourced it. If you know so
 * [Practical Object-Oriented Design in Ruby](https://www.amazon.de/Practical-Object-Oriented-Design-Ruby-Addison-Wesley/dp/0321721330/ref=sr_1_1?s=books-intl-de&ie=UTF8&qid=1476881380&sr=1-1&keywords=practical+object-oriented+design+in+ruby)
 * [Patterns of Enterprise Application Architecture](https://www.amazon.de/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420/ref=sr_1_1?ie=UTF8&qid=1476887236&sr=8-1&keywords=patterns+of+enterprise+application+architecture)
 * [Domain Driven Design](https://www.amazon.de/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/ref=sr_1_1?ie=UTF8&qid=1476887211&sr=8-1&keywords=domain+driven+design)
+* [Domain-Driven Transformation](https://www.youtube.com/watch?v=SdjGK9hn6ec)
 * [Introduction to CQRS](http://www.codeproject.com/Articles/555855/Introduction-to-CQRS)
 * [CQRS and Event Sourcing](https://www.youtube.com/watch?v=JHGkaShoyNs)
 * [Your Code as a Crime Scene](https://pragprog.com/titles/atcrime/your-code-as-a-crime-scene/)
@@ -86,6 +87,7 @@ Because we think it might help others as well we open-sourced it. If you know so
 * [PHPUnit](https://phpunit.de/)
 * [Introduction to PHP Unit](https://jtreminio.com/2013/03/unit-testing-tutorial-introduction-to-phpunit/)
 * [Twelve Benefits of Writing Unit Tests First](http://sd.jtimothyking.com/2006/07/11/twelve-benefits-of-writing-unit-tests-first/)
+* [12 Unit Testing Benefits That Will Blow Your Mind](https://methodpoet.com/unit-testing-benefits/)
 * [A Beginner's Guide to npm](https://www.sitepoint.com/beginners-guide-node-package-manager/)
 
 ## Environment
