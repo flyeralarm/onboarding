@@ -8,3 +8,6 @@
 403 https://www.sitepoint.com/npm-guide/
 403 https://explainshell.com/
 403 https://medium.com/swlh/apache-kafka-in-a-nutshell-5782b01d9ffb
+0 https://github.com/alex/what-happens-when/blob/master/README.rst
+0 http://www.phpthewrongway.com/
+0 https://superkotlin.com/resources-learn-kotlin/

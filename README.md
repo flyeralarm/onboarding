@@ -36,7 +36,7 @@ Because we think it might help others as well we open-sourced it. If you know so
 * [CQRS and Event Sourcing](https://www.youtube.com/watch?v=JHGkaShoyNs)
 * [Your Code as a Crime Scene](https://pragprog.com/titles/atcrime/your-code-as-a-crime-scene/)
 * [Awesome API](https://github.com/Kikobeats/awesome-api)
-* [An introduction to APIs](https://zapier.com/learn/apis/)
+* [An introduction to APIs](https://zapier.com/blog/api/)
 * [Architectural Katas](http://nealford.com/katas/)
 
 ## PHP

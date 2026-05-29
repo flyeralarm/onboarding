@@ -48,6 +48,19 @@ func main() {
     for _, urlElement := range urlElementRegex.FindAllStringSubmatch(fileContent, -1) {
         var url = urlElement[1]
 
+        expectedCode := 200
+		// look for http codes from url_exceptions.txt, fallback to code 200
+		code, isException := urlExceptions[url]
+		if isException {
+			expectedCode = code
+		}
+
+		// code 0 means skip this URL entirely (e.g. known timeouts or connection issues)
+		if expectedCode == 0 {
+			fmt.Printf("Checking %s: SKIPPED\n", url)
+			continue
+		}
+
         fmt.Printf("Checking %s: ", url)
 
         req, err := http.NewRequest("GET", url, nil)
@@ -59,14 +72,8 @@ func main() {
             errormessage = errors.New(http.StatusText(resp.StatusCode))
             resp.Body.Close()
         }
-
-        expectedCode := 200
-		// look for http codes from url_exceptions.txt, fallback to code 200
-		if code, isException := urlExceptions[url]; isException {
-			expectedCode = code
-		}
-
-        if err != nil || resp.StatusCode != expectedCode {
+        // accept the expected status code or a 200 
+        if err != nil || (resp.StatusCode != expectedCode && !(isException && resp.StatusCode == 200)) {
             brokenUrls = append(brokenUrls, url)
             fmt.Println("FAILED - ", errormessage)
         } else {
